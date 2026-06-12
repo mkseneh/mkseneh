@@ -26,7 +26,7 @@ I am currently transitioning into cyber security and security operations, with c
 * **2391 Exam Practice** – study/practice project supporting electrical inspection and testing revision.
 * **Shift App** – simple scheduling/shift-related project.
 * **Event Countdown Dashboard** – small dashboard project showing front-end and practical build skills.
-* **IBKR Bot** – personal technical project involving Linux, Python, automation, logging, services, monitoring and structured troubleshooting.
+* **IBKR Bot** – Private technical automation projects – larger Linux/Python projects involving automation, logging, services, monitoring and structured troubleshooting are kept private where they contain sensitive configuration or operational data.
 
 ## Career direction
 
