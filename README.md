@@ -1,6 +1,6 @@
 # Mohan Senehang
 
-Security-focused IT and cyber security candidate with 24 years of British Army experience and a background in structured, regulated, and security-sensitive environments.
+Security-focused IT candidate building practical skills for SOC Analyst and cyber security operations roles.
 
 I am currently transitioning into cyber security and security operations, with current CompTIA A+, Network+ and Security+ certifications, ongoing CCNA training, and hands-on technical practice using Linux, Python, Git, automation, logging, monitoring, and troubleshooting.
 
