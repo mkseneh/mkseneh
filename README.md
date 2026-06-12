@@ -1,4 +1,4 @@
-# Mohankumar Senehang
+# Mohan Senehang
 
 Security-focused IT and cyber security candidate with 24 years of British Army experience and a background in structured, regulated, and security-sensitive environments.
 
